@@ -1,0 +1,2 @@
+to install, simply move the folder named "StockRingTextures" into Kerbal Space Program/Gamedata
+if you want to remove any of the rings simply go into the Rings Remove.zip and put any rings you want to remove into the main mod folder.

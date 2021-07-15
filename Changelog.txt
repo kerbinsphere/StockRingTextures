@@ -1,0 +1,10 @@
+Version 1.0
+{
+	KSP versions: 1.8 - 1.12.99
+	dependencies: Kopernicus, Modular Flight Integrator
+	Notes
+	{
+		- First Release
+		- Rings on every stock celestial body
+	}
+}
